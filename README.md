@@ -13,7 +13,7 @@ title: pf-233
 ## Project
 
 - [jekyll-theme-WuK](https://jekyll-theme-WuK.wu-kan.cn/)
-  - [![Star](https://img.shields.io/github/stars/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io)[![Fork](https://img.shields.io/github/forks/wu-kan/wu-kan.github.io.svg)](https://github.com/wu-kan/wu-kan.github.io/fork)，我的个人主页使用的主题样式，也欢迎你用于搭建自己的博客~。作者是WuK
+  - [![Star](https://img.shields.io/github/stars/pf-233/pf-233.github.io.svg)](https://github.com/pf-233/pf-233.github.io)[![Fork](https://img.shields.io/github/forks/pf-233/pf-233.github.io.svg)](https://github.com/pf-233/pf-233.github.io/fork)，我的个人主页使用的主题样式，也欢迎你用于搭建自己的博客~。作者是WuK
 
 
 ## Skill
