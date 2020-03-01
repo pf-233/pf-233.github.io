@@ -223,7 +223,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
         - | # Copyright
           <div>
             <i class="fas fa-copyright fa-fw"></i>
-            2017-2020 WuK
+            2020 pf
           </div>
         - | # 运行时间
           <div>
@@ -496,7 +496,7 @@ jekyll-theme-WuK: # 我的主题的自定义样式都在这个命名空间
           src='https://zz.bdstatic.com/linksubmit/push.js'
           defer='defer'
         ></script>
-      - | # 在这里自定义页面样式吧
+      - | # 在这里自定义页面样式吧 背景图片
         <style>
           pre {
             max-height: 50vh;
